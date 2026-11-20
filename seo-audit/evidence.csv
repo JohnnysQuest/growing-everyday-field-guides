@@ -1,0 +1,8 @@
+Evidence ID,URL,Source,Intended for search,HTML robots noindex,Page title,Outbound paths,Missing destinations
+E01,/,Fictional HTML snapshot,True,False,Folio Bench workshops,"/workshops/, /booking/, /privacy/, /archive/",
+E02,/archive/,Fictional HTML snapshot,False,True,Retired sessions,/workshops/,
+E03,/booking/,Fictional HTML snapshot,True,False,Choose a workshop date,/workshops/,
+E04,/privacy/,Fictional HTML snapshot,False,True,Privacy notice,/,
+E05,/workshops/,Fictional HTML snapshot,True,False,Print and binding workshops,"/workshops/bookbinding/, /workshops/letterpress/",
+E06,/workshops/bookbinding/,Fictional HTML snapshot,True,True,Workshop | Folio Bench,"/reserve/, /workshops/",/reserve/
+E07,/workshops/letterpress/,Fictional HTML snapshot,True,False,Workshop | Folio Bench,"/booking/, /workshops/",
